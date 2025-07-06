@@ -17,11 +17,11 @@
 ---
 
 ### 📌 Featured Projects
-- **[Thamarat - Social Media for Readers](https://github.com/Mohamedelwali/thamarat-social-media-platform)**  
+- **[Thamarat - Social Media for Readers]()**  
   Django + React web app with OCR accessibility features  
-- **[Crowdfunding Platform](https://github.com/Mohamedelwali/crowdfunding-django-react)**  
+- **[Crowdfunding Platform]()**  
   Full-stack donation platform built in ITI  
-- **[Memory Matching Game](https://github.com/Mohamedelwali/memory-matching-game-js)**  
+- **[Memory Matching Game]()**  
   Fun JS project with front-end logic
 
 ---

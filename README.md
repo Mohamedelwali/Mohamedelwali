@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Elwaly
 
-<!--
-**Mohamedelwali/Mohamedelwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ITI Graduate | 💻 Full Stack Developer (Django + React)  
+🔍 Passionate about building scalable, secure web apps  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohamed-elwaly) | mnoaman162@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Backend:** Django, Django REST Framework, Flask (basic)
+- **Frontend:** React.js, Bootstrap, jQuery
+- **Database:** PostgreSQL, MySQL (basic)
+- **Tools:** Git, GitHub, Postman, Linux, Bash
+- **Soft Skills:** Problem Solving, Communication, Teamwork
+
+---
+
+### 📌 Featured Projects
+- **[Thamarat - Social Media for Readers](https://github.com/Mohamedelwali/thamarat-social-media-platform)**  
+  Django + React web app with OCR accessibility features  
+- **[Crowdfunding Platform](https://github.com/Mohamedelwali/crowdfunding-django-react)**  
+  Full-stack donation platform built in ITI  
+- **[Memory Matching Game](https://github.com/Mohamedelwali/memory-matching-game-js)**  
+  Fun JS project with front-end logic
+
+---
+
+### 📈 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedelwali&show_icons=true&theme=default)
